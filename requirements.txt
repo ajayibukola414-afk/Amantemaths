@@ -1,0 +1,16 @@
+# Core
+streamlit
+sympy
+numpy
+scipy
+pandas
+
+# Plotting & visualization
+matplotlib
+seaborn
+
+# Image handling
+pillow
+
+# Optional helpers (for better math formatting / linear algebra work)
+scikit-learn
